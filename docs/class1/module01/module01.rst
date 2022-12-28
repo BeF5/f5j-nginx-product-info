@@ -1,8 +1,4 @@
-ドキュメントIndex
-####
-
 OSS / Product など各種ドキュメントの情報をまとめます
-
 
 オフィシャルページ
 ====
@@ -349,6 +345,14 @@ Cookbook 日本語
 ``まずはこちらを利用ください。網羅的に解説されています。``
 
 - `NGINX CookBook 第二版 <https://www.nginx.co.jp/resources/library/nginx-cookbook-jp/>`__
+
+NGINX Lab Guide
+----
+
+様々なNGINXのデプロイ手順、動作確認手順をまとめています。
+ハンズオンラボをご希望の場合にはF5にご連絡ください。
+
+- `NGINX セットアップガイド・ラボガイド <https://f5j-tech-info.readthedocs.io/ja/latest/content03/content3.html>`__
 
 Webinar
 ----
