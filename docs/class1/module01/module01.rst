@@ -120,7 +120,7 @@ NGINX AppProtect WAF
 リリース
 ~~~~
 
-- `NGINX AppProtect WAF Releases <https://docs.nginx.com/nginx-app-protect/releases/release-notes-4.0/>`__ (最新の内容を参照してください)
+- `NGINX AppProtect WAF Releases <https://docs.nginx.com/nginx-app-protect/releases>`__ 
 
 Technical Specification
 ~~~~
@@ -141,7 +141,7 @@ NGINX AppProtect DoS
 リリース
 ~~~~
 
-- `NGINX AppProtect DoS Releases <https://docs.nginx.com/nginx-app-protect-dos/releases/learn-about-releases-v3.1/>`__ (最新の内容を参照してください)
+- `NGINX AppProtect DoS Releases <https://docs.nginx.com/nginx-app-protect-dos/releases/>`__ 
 
 Technical Specification
 ~~~~
@@ -187,7 +187,7 @@ NGINX Service Mesh
 リリース
 ~~~~
 
-- `NGINX Service Mesh <https://docs.nginx.com/nginx-service-mesh/releases/release-notes-1.6.0/>`__  (最新の内容を参照してください)
+- `NGINX Service Mesh <https://docs.nginx.com/nginx-service-mesh/releases/>`__  
 
 Technical Specification
 ~~~~
