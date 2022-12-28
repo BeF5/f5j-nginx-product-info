@@ -1,0 +1,38 @@
+/*
+div[class^='highlight'] pre, div[class~='docutils'], code, .code.descname {
+    background: lightgrey !important;
+}
+*/
+img {
+/*	max-width: 100%;
+    height: auto;*/
+	margin-bottom: 12px;
+}
+
+/*
+table {
+	margin-bottom: 12px;
+}
+*/
+
+
+.caption-text {
+/*    float:left; */
+    font-weight:bold;
+}
+
+.code-block-caption {
+    background: rgb(218, 222, 223);
+}
+
+.code pre {
+    background: #eeeeee;
+}
+
+.highlight-cmdin pre {
+    background: #e5f4ff;
+}
+
+.linenos pre {
+    background: #ffffff;
+}
