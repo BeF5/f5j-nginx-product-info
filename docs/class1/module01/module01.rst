@@ -18,6 +18,8 @@ NGINX Directive / Variable
 ====
 
 - `NGINX Alphabetical index of directives  <http://nginx.org/en/docs/dirindex.html>`__
+``commercial subscription`` と記述のある説明は、NGINX Plus のみで利用可能です
+
 - `NGINX Alphabetical index of variables <http://nginx.org/en/docs/varindex.html>`__
 
 Product
@@ -341,6 +343,13 @@ F5 NGINX Product
 NGINX利用で参考となるページ
 =====
 
+Cookbook 日本語
+----
+
+``まずはこちらを利用ください。網羅的に解説されています。``
+
+- `NGINX CookBook 第二版 <https://www.nginx.co.jp/resources/library/nginx-cookbook-jp/>`__
+
 Webinar
 ----
 
@@ -377,7 +386,7 @@ Technical Page
 - `NGINX,Inc GitHub <https://github.com/nginxinc/>`__
 - `NGINX Wiki <https://www.nginx.com/resources/wiki/>`__
 
-NGINX Japan 便利ページ
+NGINX Japan その他ページ
 ----
 
 - `NGINX Japan Trial Product <https://www.nginx.co.jp/pricing/>`__ 
@@ -387,10 +396,7 @@ NGINX Japan 便利ページ
 - `NGINX Japan RedHat <https://www.nginx.co.jp/partners/red-hat/>`__ 
 - `NGINX Japan GCP <https://www.nginx.co.jp/partners/google-cloud-platform/>`__ 
 
-Cookbook 日本語
-----
 
-- `NGINX CookBook 第二版 <https://www.nginx.co.jp/resources/library/nginx-cookbook-jp/>`__
 
 .. toctree::
    :titlesonly:
