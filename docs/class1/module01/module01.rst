@@ -27,7 +27,7 @@ NGINX OSS
 ----
 
 .. image:: ./media/NGINX-OSS.png
-   :width: 400
+   :width: 300
 
 リリース
 ~~~~
@@ -51,7 +51,7 @@ NJS
 ----
 
 .. image:: ./media/NJS.png
-   :width: 400
+   :width: 300
 
 リリース
 ~~~~
@@ -73,7 +73,7 @@ NGINX Unit
 ----
 
 .. image:: ./media/NGINX-Unit.png
-   :width: 400
+   :width: 300
 
 リリース
 ~~~~
@@ -96,7 +96,7 @@ NGINX Plus
 ----
 
 .. image:: ./media/NGINX-Plus.png
-   :width: 400
+   :width: 300
 
 リリース
 ~~~~
@@ -117,7 +117,7 @@ NGINX AppProtect WAF
 ----
 
 .. image:: ./media/NAP-WAF.png
-   :width: 400
+   :width: 300
 
 リリース
 ~~~~
@@ -138,7 +138,7 @@ NGINX AppProtect DoS
 ----
 
 .. image:: ./media/NAP-DoS.png
-   :width: 400
+   :width: 300
 
 リリース
 ~~~~
@@ -158,7 +158,7 @@ NGINX Ingress Controller
 ----
 
 .. image:: ./media/NIC.png
-   :width: 400
+   :width: 300
 
 リリース
 ~~~~
@@ -184,7 +184,7 @@ NGINX Service Mesh
 ----
 
 .. image:: ./media/NSM.png
-   :width: 400
+   :width: 300
 
 リリース
 ~~~~
@@ -208,7 +208,7 @@ NGINX Instance Manager
 ----
 
 .. image:: ./media/NMS-NIM.png
-   :width: 400
+   :width: 300
 
 リリース
 ~~~~
@@ -230,7 +230,7 @@ NGINX Instance Manager Security Monitoring
 ----
 
 .. image:: ./media/NMS-NIM-SM.png
-   :width: 400
+   :width: 300
 
 リリース
 ~~~~
@@ -253,7 +253,7 @@ NGINX API Connectivity Manager
 ----
 
 .. image:: ./media/NMS-ACM.png
-   :width: 400
+   :width: 300
 
 リリース
 ~~~~
@@ -276,7 +276,7 @@ NGINX Agent
 ----
 
 .. image:: ./media/NGINX-Agent.png
-   :width: 400
+   :width: 300
 
 リリース
 ~~~~
@@ -297,7 +297,7 @@ NGINXaaS for Azure
 ----
 
 .. image:: ./media/NGINX-Azure.png
-   :width: 400
+   :width: 300
 
 リリース
 ~~~~
