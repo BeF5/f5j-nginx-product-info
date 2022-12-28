@@ -14,8 +14,6 @@ F5 Product Info
 
   - `NGINX Trial License 発行手順  <https://f5j-nginx-plus-trial.readthedocs.io/>`__
 
-- `BLOG:API ゲートウェイ / Ingressコントローラー / サービスメッシュをどのように選択するか？ <https://www.nginx.co.jp/blog/how-do-i-choose-api-gateway-vs-ingress-controller-vs-service-mesh/>`__
-
 プロダクト情報
 ====
 
