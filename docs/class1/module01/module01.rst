@@ -275,7 +275,7 @@ Technical Specification
 NGINX Agent
 ----
 
-.. image:: ./media/NGINX-Agent
+.. image:: ./media/NGINX-Agent.png
    :width: 400
 
 リリース
