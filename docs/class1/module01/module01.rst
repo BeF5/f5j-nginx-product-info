@@ -339,6 +339,9 @@ F5 NGINX Product
 その他NGINXテクニカル情報
 ====
 
+NGINX Module
+----
+
 - `NGINX Dynamic Modules一覧 <https://www.nginx.com/products/nginx/modules>`__
 - `NGINX Plus Dynamic Modules Deploy <https://docs.nginx.com/nginx/admin-guide/dynamic-modules/dynamic-modules/>`__
 - `Community NGINX 3rd Party Modules <https://www.nginx.com/resources/wiki/modules/>`__
