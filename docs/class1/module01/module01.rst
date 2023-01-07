@@ -336,6 +336,32 @@ F5 NGINX Product
 - `NGINX Management Suite Troubleshooting <https://docs.nginx.com/nginx-management-suite/support/troubleshooting/>`__ 
 - `NGINX for Azure Troubleshooting <https://docs.nginx.com/nginxaas/azure/troubleshooting/troubleshooting/>`__
 
+その他NGINXテクニカル情報
+====
+
+- `NGINX Dynamic Modules一覧 <https://www.nginx.com/products/nginx/modules>`__
+- `NGINX Plus Dynamic Modules Deploy <https://docs.nginx.com/nginx/admin-guide/dynamic-modules/dynamic-modules/>`__
+- `Community NGINX 3rd Party Modules <https://www.nginx.com/resources/wiki/modules/>`__
+
+OpenTelemetry / OpenTracing
+----
+
+- `OpenTelemetry NGINX module <https://github.com/open-telemetry/opentelemetry-cpp-contrib/tree/main/instrumentation/nginx>`__
+- `OpenTracing NGINX Module <https://github.com/opentracing-contrib/nginx-opentracing>`__
+
+DataDog
+----
+
+- `NGINX DataDog Agent <https://docs.datadoghq.com/ja/integrations/nginx/?tab=host>`__
+
+Sumo Logic
+----
+
+- `Blog: How to monitor NGINX with Sumo Logic <https://www.sumologic.jp/blog/how-to-monitor-nginx-deployments-with-sumo-logic/>`__
+- `Sumo Logic App for NGINX Plus <https://help.sumologic.com/docs/integrations/web-servers/nginx-plus/>`__
+- `Nginx Plus Ingress Controller for Kubernetes <https://help.sumologic.com/docs/integrations/web-servers/nginx-plus-ingress/>`__
+
+
 NGINX利用で参考となるページ
 =====
 
