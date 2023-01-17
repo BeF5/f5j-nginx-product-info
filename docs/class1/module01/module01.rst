@@ -401,6 +401,37 @@ Datasheet
 - `NGINX Datasheet <https://www.nginx.com/resources/datasheets/>`__ 
 - `NGINX Japan Datasheet <https://www.nginx.co.jp/resources/datasheets/>`__ 
 
+Performance
+----
+
+Sizing Guide / Performance Test
+~~~~
+
+- `NGINX Plus Baremetal <https://www.nginx.com/resources/datasheets/nginx-plus-sizing-guide/>`__
+- `NGINX Plus VE <https://www.nginx.com/resources/datasheets/nginx-plus-sizing-guide-virtualized-environments/>`__
+- `NGINX Ingress Controller <https://www.nginx.com/resources/datasheets/nginx-ingress-controller-kubernetes/>`__
+- `NGINX Plus ARM <https://www.nginx.com/resources/datasheets/nginx-plus-arm-based-aws-graviton2-amis/>`__
+
+- `Blog NGINX Plus Test Reverse Proxy <https://www.nginx.com/blog/nginx-plus-sizing-guide-how-we-tested/>`__
+- `Blog NGINX Plus Test WebServer <https://www.nginx.com/blog/testing-the-performance-of-nginx-and-nginx-plus-web-servers/>`__
+- `Blog NGINX Plus Test VE/K8S <https://www.nginx.com/blog/comparing-nginx-performance-bare-metal-and-virtual-environments/>`__
+- `Blog NGINX Ingress Controller EKS <https://www.nginx.com/blog/deploying-nginx-ingress-controller-on-amazon-eks-how-we-tested/>`__
+- `Blog NGINX Plus ARM <https://www.nginx.com/blog/optimize-nginx-plus-deployment-arm-based-amazon-ec2-m6g-instances/>`__
+
+VS Other products
+~~~~
+
+- `APIM NGINX vs Kong, AWS <https://www.nginx.com/blog/benchmarking-api-management-solutions-nginx-kong-amazon-real-time-apis/>`__
+- `EKS NAP WAF vs AWS, Azure, CloudFlare <https://www.nginx.com/blog/shifting-security-left-f5-nginx-app-protect-amazon-eks/>`__
+- `NIC vs OpenShift Router <https://www.nginx.com/blog/performance-testing-nginx-ingress-controller-red-hat-openshift-router/>`__
+
+GIGAOM Report
+~~~~
+
+- `NAP WAF Webinar <https://www.nginx.com/resources/webinars/high-performance-web-application-firewall-testing/>`__
+- `NAP WAF Report <https://www.nginx.com/resources/library/high-performance-web-application-firewall-testing/>`__
+
+
 Ebook
 ----
 
