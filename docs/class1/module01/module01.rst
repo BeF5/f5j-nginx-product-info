@@ -431,6 +431,13 @@ GIGAOM Report
 - `NAP WAF Webinar <https://www.nginx.com/resources/webinars/high-performance-web-application-firewall-testing/>`__
 - `NAP WAF Report <https://www.nginx.com/resources/library/high-performance-web-application-firewall-testing/>`__
 
+Tuning
+~~~~
+
+- `Tuning NGINX for Performance <https://www.nginx.com/blog/tuning-nginx/>`__
+- `Performance Tuning – Tips & Tricks <https://www.nginx.com/blog/performance-tuning-tips-tricks/>`__
+- `10 Tips for 10x Application Performance <https://www.nginx.com/blog/10-tips-for-10x-application-performance/>`__
+- `7 Tips for Faster HTTP/2 Performance <https://www.nginx.com/blog/7-tips-for-faster-http2-performance/>`__
 
 Ebook
 ----
