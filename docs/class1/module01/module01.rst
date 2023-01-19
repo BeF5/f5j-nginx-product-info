@@ -130,6 +130,7 @@ Technical Specification
 インストール手順
 ~~~~
 
+- `NGINX AppProtect WAF Prerequisites <https://docs.nginx.com/nginx-app-protect/admin-guide/install/#prerequisites>`__ 
 
 
 NGINX AppProtect DoS
@@ -150,6 +151,8 @@ Technical Specification
 
 インストール手順
 ~~~~
+
+- `NGINX AppProtect DoS Prerequisites <https://docs.nginx.com/nginx-app-protect-dos/deployment-guide/learn-about-deployment/#prerequisites>`__
 
 
 NGINX Ingress Controller
