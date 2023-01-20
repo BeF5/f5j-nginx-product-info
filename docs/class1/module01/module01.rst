@@ -349,6 +349,10 @@ NGINX Module
 - `NGINX Plus Dynamic Modules Deploy <https://docs.nginx.com/nginx/admin-guide/dynamic-modules/dynamic-modules/>`__
 - `Community NGINX 3rd Party Modules <https://www.nginx.com/resources/wiki/modules/>`__
 
+- `Blog Compiling Third-Party Dynamic Modules for NGINX and NGINX Plus <https://www.nginx.com/blog/compiling-dynamic-modules-nginx-plus/>`__
+- `Blog Creating Installable Packages for Dynamic Modules <https://www.nginx.com/blog/creating-installable-packages-dynamic-modules/>`__
+- `Wiki Extending NGINX <https://www.nginx.com/resources/wiki/extending/>`__
+
 OpenTelemetry / OpenTracing
 ----
 
@@ -459,6 +463,12 @@ Technical Page
 
 - `NGINX,Inc GitHub <https://github.com/nginxinc/>`__
 - `NGINX Wiki <https://www.nginx.com/resources/wiki/>`__
+- `NGINX OSS GitHub <https://github.com/nginx>`__
+
+Mailing list
+----
+- `nginx.org Mailing Lists <https://mailman.nginx.org/mailman/listinfo>`__
+
 
 NGINX Japan その他ページ
 ----
