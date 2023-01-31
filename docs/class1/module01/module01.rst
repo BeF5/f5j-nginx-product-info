@@ -315,8 +315,7 @@ Overview
 インストール手順
 ~~~~
 
-- `NGINX Agent Installation <https://docs.nginx.com/nginx-agent/installation/>`__
-
+- `NGINX for Azure Deployment <https://docs.nginx.com/nginxaas/azure/quickstart/create-deployment/>`__
 
 プロダクトサポート
 ====
