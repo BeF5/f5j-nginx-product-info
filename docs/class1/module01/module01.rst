@@ -220,12 +220,13 @@ NGINX Instance Manager
 Technical Specification
 ~~~~
 
-- `NGINX Management Suite Technical Specification <https://docs.nginx.com/nginx-management-suite/tech-specs/>`__
+- `NGINX Management Suite Technical Specification <https://docs.nginx.com/nginx-management-suite/overview/tech-specs/>`__
 
 インストール手順
 ~~~~
 
 - `NGINX Management Suite Installation <https://docs.nginx.com/nginx-management-suite/admin-guides/installation/install-guide/>`__
+- `NGINX Management Suite WAF Configuration Management <https://docs.nginx.com/nginx-management-suite/nim/how-to/app-protect/setup-waf-config-management/#install-the-waf-compiler>`__
 
 NGINX Instance Manager Security Monitoring
 ----
