@@ -283,7 +283,7 @@ NGINX Agent
 リリース
 ~~~~
 
-- `NGINX Agent ChangeLog <https://github.com/nginx/agent/blob/main/docs/CHANGELOG.md>`__
+- `NGINX Agent ChangeLog <https://github.com/nginx/agent/releases>`__
 
 Technical Specification
 ~~~~
