@@ -332,6 +332,7 @@ F5 NGINX Product
 ----
 
 - `NGINX Support <https://www.nginx.com/support>`__
+- `Debugging NGINX (NGINX OSS / NGINX Plus) <https://docs.nginx.com/nginx/admin-guide/monitoring/debugging/>`__
 - `NGINX AppProtect WAF Troubleshooting Guide <https://docs.nginx.com/nginx-app-protect/troubleshooting-guide/troubleshooting/>`__
 - `NGINX AppProtect DoS Troubleshooting Guide <https://docs.nginx.com/nginx-app-protect-dos/troubleshooting-guide/how-to-troubleshoot/>`__
 - `NGINX Ingress Controller Troubleshooting <https://docs.nginx.com/nginx-ingress-controller/troubleshooting/troubleshoot-ingress-controller/>`__ 
