@@ -417,12 +417,12 @@ Sizing Guide / Performance Test
 
 - `NGINX Plus Baremetal <https://www.nginx.com/resources/datasheets/nginx-plus-sizing-guide/>`__
 - `NGINX Plus VE <https://www.nginx.com/resources/datasheets/nginx-plus-sizing-guide-virtualized-environments/>`__
-- `NGINX Ingress Controller <https://www.nginx.com/resources/datasheets/nginx-ingress-controller-kubernetes/>`__
 - `NGINX Plus ARM <https://www.nginx.com/resources/datasheets/nginx-plus-arm-based-aws-graviton2-amis/>`__
 
 - `Blog NGINX Plus Test Reverse Proxy <https://www.nginx.com/blog/nginx-plus-sizing-guide-how-we-tested/>`__
 - `Blog NGINX Plus Test WebServer <https://www.nginx.com/blog/testing-the-performance-of-nginx-and-nginx-plus-web-servers/>`__
 - `Blog NGINX Plus Test VE/K8S <https://www.nginx.com/blog/comparing-nginx-performance-bare-metal-and-virtual-environments/>`__
+- `Blog NGINX Ingress Controller <https://www.nginx.com/blog/testing-performance-nginx-ingress-controller-kubernetes/>`__
 - `Blog NGINX Ingress Controller EKS <https://www.nginx.com/blog/deploying-nginx-ingress-controller-on-amazon-eks-how-we-tested/>`__
 - `Blog NGINX Plus ARM <https://www.nginx.com/blog/optimize-nginx-plus-deployment-arm-based-amazon-ec2-m6g-instances/>`__
 
@@ -452,6 +452,13 @@ Ebook
 
 - `NGINX Ebook <https://www.nginx.com/resources/library/>`__ 
 - `NGINX Japan Ebook <https://www.nginx.co.jp/resources/library/>`__ 
+
+Kubernetes Gateway API
+----
+
+- `Blog NGINX Kubernetes Gateway <https://www.nginx.com/blog/5-things-to-know-about-nginx-kubernetes-gateway/>`__
+- `NGINX Inc GitHub Kubernetes Gateway <https://github.com/nginxinc/nginx-kubernetes-gateway>`__
+- `K8S Kubernetes Gateway API <https://gateway-api.sigs.k8s.io/>`__
 
 導入事例
 ----
