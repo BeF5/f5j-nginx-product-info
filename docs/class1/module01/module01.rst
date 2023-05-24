@@ -196,8 +196,7 @@ Technical Specification
 ~~~~
 
 - `NGINX Service Mesh Technical Specifications <https://docs.nginx.com/nginx-service-mesh/about/tech-specs/>`__  
-- `NGINX Service Mesh Kubernetes Platform <https://docs.nginx.com/nginx-service-mesh/get-started/kubernetes-platform/supported-platforms/>`__  
-- `NGINX Service Mesh OpenShift Platform <https://docs.nginx.com/nginx-service-mesh/get-started/openshift-platform/supported-platforms/>`__  
+- `NGINX Service Mesh Kubernetes Platform <https://docs.nginx.com/nginx-service-mesh/get-started/platform-setup/supported-platforms/>`__
 
 インストール手順
 ~~~~
