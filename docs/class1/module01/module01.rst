@@ -476,6 +476,10 @@ Mailing list
 ----
 - `nginx.org Mailing Lists <https://mailman.nginx.org/mailman/listinfo>`__
 
+NGINX partners
+----
+
+- `NGINX パートナー <https://www.nginx.co.jp/partners/find-a-partner/>`__
 
 NGINX Japan その他ページ
 ----
