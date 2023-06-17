@@ -201,8 +201,7 @@ Technical Specification
 インストール手順
 ~~~~
 
-- `NGINX Service Mesh using nginx-meshctl <https://docs.nginx.com/nginx-service-mesh/get-started/install/>`__
-- `NGINX Service Mesh using Helm <https://docs.nginx.com/nginx-service-mesh/get-started/install-with-helm/>`__
+- `NGINX Service Mesh Installation <https://docs.nginx.com/nginx-service-mesh/get-started/install/>`__
 
 NGINX Instance Manager
 ----
@@ -224,7 +223,7 @@ Technical Specification
 インストール手順
 ~~~~
 
-- `NGINX Management Suite Installation <https://docs.nginx.com/nginx-management-suite/admin-guides/installation/install-guide/>`__
+- `NGINX Management Suite Installation <https://docs.nginx.com/nginx-management-suite/installation/vm-bare-metal/install-nim/>`__
 - `NGINX Management Suite WAF Configuration Management <https://docs.nginx.com/nginx-management-suite/nim/how-to/app-protect/setup-waf-config-management/#install-the-waf-compiler>`__
 
 NGINX Instance Manager Security Monitoring
@@ -292,7 +291,10 @@ Technical Specification
 インストール手順
 ~~~~
 
-- `NGINX Agent Installation <https://docs.nginx.com/nginx-agent/installation/>`__
+- `NGINX Agent Installation from GitHub <https://docs.nginx.com/nginx-agent/installation-github/>`__
+- `NGINX Agent Installation fron NGINX Repository <https://docs.nginx.com/nginx-agent/installation-oss/>`__
+- `NGINX Agent Installation from NGINX Plus Repository <https://docs.nginx.com/nginx-agent/installation-plus/>`__
+
 
 NGINXaaS for Azure
 ----
@@ -309,13 +311,13 @@ NGINXaaS for Azure
 Overview
 ~~~~
 
-- `NGINX for Azure Overview <https://docs.nginx.com/nginxaas/azure/quickstart/overview/>`__
-- `NGINX for Azure Feature comparison <https://docs.nginx.com/nginxaas/azure/quickstart/feature-comparison/>`__
+- `NGINX for Azure Overview <https://docs.nginx.com/nginxaas/azure/overview/overview/>`__
+- `NGINX for Azure Feature comparison <https://docs.nginx.com/nginxaas/azure/overview/feature-comparison/>`__
 
 インストール手順
 ~~~~
 
-- `NGINX for Azure Deployment <https://docs.nginx.com/nginxaas/azure/quickstart/create-deployment/>`__
+- `NGINX for Azure Deployment <https://docs.nginx.com/nginxaas/azure/getting-started/create-deployment/>`__
 
 プロダクトサポート
 ====
