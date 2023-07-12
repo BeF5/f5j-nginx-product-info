@@ -341,6 +341,13 @@ F5 NGINX Product
 - `NGINX Management Suite Troubleshooting <https://docs.nginx.com/nginx-management-suite/support/troubleshooting/>`__ 
 - `NGINX for Azure Troubleshooting <https://docs.nginx.com/nginxaas/azure/troubleshooting/troubleshooting/>`__
 
+Support Case の利用方法、取得するべき情報
+----
+
+- `K2633: Submit a support case <https://my.f5.com/manage/s/article/K2633>`__
+
+取得するべき情報は、 ``Appendix: Product-specific information`` の各プロダクト(NGINX Plus, NAP WAF etc)を参照してください
+
 その他NGINXテクニカル情報
 ====
 
