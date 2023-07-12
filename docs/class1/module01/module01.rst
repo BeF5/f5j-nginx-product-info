@@ -286,12 +286,17 @@ NGINX Instance Manager Security Monitoring
 Technical Specification
 ~~~~
 
-- `NIM Technical Spec <https://f5j-nginx-product-info.readthedocs.io/en/latest/class1/module01/module01.html#id26>`__
+- `NIM Technical Spec <#id26>`__
 
 インストール手順
 ~~~~
 
-- `NIM Technical Install <https://f5j-nginx-product-info.readthedocs.io/en/latest/class1/module01/module01.html#id27>`__
+- `NIM Technical Install <#id27>`__
+
+サポート・調査
+~~~~
+
+- `NIM Tech Support <#id34>`__
 
 
 NGINX API Connectivity Manager
@@ -309,13 +314,17 @@ NGINX API Connectivity Manager
 Technical Specification
 ~~~~
 
-- `NIM Technical Spec <https://f5j-nginx-product-info.readthedocs.io/en/latest/class1/module01/module01.html#id26>`__
+- `NIM Technical Spec <#id26>`__
 
 インストール手順
 ~~~~
 
-- `NIM Technical Install <https://f5j-nginx-product-info.readthedocs.io/en/latest/class1/module01/module01.html#id27>`__
+- `NIM Technical Install <#id27>`__
 
+サポート・調査
+~~~~
+
+- `NIM Tech Support <#id34>`__
 
 NGINX Agent
 ----
