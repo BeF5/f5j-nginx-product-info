@@ -362,11 +362,17 @@ NGINX Module
 - `Blog Creating Installable Packages for Dynamic Modules <https://www.nginx.com/blog/creating-installable-packages-dynamic-modules/>`__
 - `Wiki Extending NGINX <https://www.nginx.com/resources/wiki/extending/>`__
 
+NGINX Prometheus Exportner
+----
+
+- `GitHub nginx-prometheus-exporter <https://github.com/nginxinc/nginx-prometheus-exporter>`__
+
 OpenTelemetry / OpenTracing
 ----
 
-- `OpenTelemetry NGINX module <https://github.com/open-telemetry/opentelemetry-cpp-contrib/tree/main/instrumentation/nginx>`__
-- `OpenTracing NGINX Module <https://github.com/opentracing-contrib/nginx-opentracing>`__
+- `OpenTelemetry <https://docs.nginx.com/nginx/admin-guide/dynamic-modules/opentelemetry/>`__ ``NGINX Plus R29より利用可能``
+- `GitHub OpenTelemetry NGINX module <https://github.com/open-telemetry/opentelemetry-cpp-contrib/tree/main/instrumentation/nginx>`__
+- `GitHub OpenTracing NGINX Module <https://github.com/opentracing-contrib/nginx-opentracing>`__
 
 DataDog
 ----
