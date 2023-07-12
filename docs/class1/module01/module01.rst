@@ -421,7 +421,7 @@ NGINX Module
 - `Blog Creating Installable Packages for Dynamic Modules <https://www.nginx.com/blog/creating-installable-packages-dynamic-modules/>`__
 - `Wiki Extending NGINX <https://www.nginx.com/resources/wiki/extending/>`__
 
-NGINX Prometheus Exportner
+NGINX Prometheus Exporter
 ----
 
 - `GitHub nginx-prometheus-exporter <https://github.com/nginxinc/nginx-prometheus-exporter>`__
