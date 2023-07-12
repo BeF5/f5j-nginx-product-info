@@ -44,6 +44,11 @@ Technical Specification
 - `NGINX OSS Installing <https://nginx.org/en/docs/install.html>`__
 - `Installing NGINX OSS (docs.nginx.com) <https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/>`__
 
+サポート・調査
+~~~~
+
+- `Debugging NGINX (NGINX OSS / NGINX Plus) <https://docs.nginx.com/nginx/admin-guide/monitoring/debugging/>`__
+
 
 NJS
 ----
@@ -119,6 +124,7 @@ Technical Specification
 サポート・調査
 ~~~~
 
+- `Debugging NGINX (NGINX OSS / NGINX Plus) <https://docs.nginx.com/nginx/admin-guide/monitoring/debugging/>`__
 - `Support Case の利用方法、取得するべき情報 <#support-case>`__
 
 
@@ -393,13 +399,6 @@ F5 NGINX Product
 ----
 
 - `NGINX Support <https://www.nginx.com/support>`__
-- `Debugging NGINX (NGINX OSS / NGINX Plus) <https://docs.nginx.com/nginx/admin-guide/monitoring/debugging/>`__
-- `NGINX AppProtect WAF Troubleshooting Guide <https://docs.nginx.com/nginx-app-protect/troubleshooting-guide/troubleshooting/>`__
-- `NGINX AppProtect DoS Troubleshooting Guide <https://docs.nginx.com/nginx-app-protect-dos/troubleshooting-guide/how-to-troubleshoot/>`__
-- `NGINX Ingress Controller Troubleshooting <https://docs.nginx.com/nginx-ingress-controller/troubleshooting/troubleshoot-ingress-controller/>`__ 
-- `NGINX Service Mesh Support <https://docs.nginx.com/nginx-service-mesh/support/contact-support/>`__ 
-- `NGINX Management Suite Troubleshooting <https://docs.nginx.com/nginx-management-suite/support/troubleshooting/>`__ 
-- `NGINX for Azure Troubleshooting <https://docs.nginx.com/nginxaas/azure/troubleshooting/troubleshooting/>`__
 
 Support Case の利用方法、取得するべき情報
 ----
