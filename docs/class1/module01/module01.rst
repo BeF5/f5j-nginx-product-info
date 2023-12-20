@@ -88,7 +88,8 @@ Technical Specification
 ~~~~
 
 - `NGINX Unit Prerequisites <https://unit.nginx.org/installation/#prerequisites>`__
-- `NGINX Unit Supported App Languages <https://unit.nginx.org/about/#supported-app-languages>`__
+#- `NGINX Unit Supported App Languages <https://unit.nginx.org/about/#supported-app-languages>`__(リンクなし)
+- `NGINX Unit Supported App Languages <https://unit.nginx.org/howto/modules/>`__
 
 インストール手順
 ~~~~
@@ -289,20 +290,18 @@ NGINX Instance Manager Security Monitoring
 - `NGINX Instance Manager Security Monitoring Release <https://docs.nginx.com/nginx-management-suite/security/releases/release-notes/>`__
 - `NGINX Instance Manager Security Monitoring Known Issues <https://docs.nginx.com/nginx-management-suite/security/releases/known-issues/>`__
 
-Technical Specification
-~~~~
-
-- `NIM Technical Spec <#id26>`__
-
 インストール手順
 ~~~~
 
-- `NIM Technical Install <#id27>`__
+- `Set Up App Protect Instances for Security Monitoring <https://docs.nginx.com/nginx-management-suite/security/how-to/set-up-app-protect-instances/>`__
+- `Update Geolocation Database used in Security Monitoring Dashboards <https://docs.nginx.com/nginx-management-suite/security/how-to/update-geo-db/>`__
+- `Manage the Security Monitoring Signature Database <https://docs.nginx.com/nginx-management-suite/security/how-to/update-signatures/>`__
+- `Give Users Access to Security Monitoring Dashboards <https://docs.nginx.com/nginx-management-suite/security/how-to/create-role-security-monitoring/>`__
 
 サポート・調査
 ~~~~
 
-- `NIM Tech Support <#id34>`__
+- `Troubleshooting <https://docs.nginx.com/nginx-management-suite/security/troubleshooting/>`__
 
 
 NGINX API Connectivity Manager
@@ -320,17 +319,22 @@ NGINX API Connectivity Manager
 Technical Specification
 ~~~~
 
-- `NIM Technical Spec <#id26>`__
+- `Architecture Overview <https://docs.nginx.com/nginx-management-suite/acm/about/architecture/>`__
+- `API Overview <https://docs.nginx.com/nginx-management-suite/acm/about/api-overview/>`__
+- `Learn about Policies <https://docs.nginx.com/nginx-management-suite/acm/about/policies-overview/>`__
 
 インストール手順
 ~~~~
 
-- `NIM Technical Install <#id27>`__
+- `Get Started <https://docs.nginx.com/nginx-management-suite/acm/getting-started/>`__
+- `Set Up an API Gateway Environment <https://docs.nginx.com/nginx-management-suite/acm/getting-started/add-api-gateway/>`__
+- `Set Up a Developer Portal Environment <https://docs.nginx.com/nginx-management-suite/acm/getting-started/add-devportal/>`__
+- `Publish an API Proxy <https://docs.nginx.com/nginx-management-suite/acm/getting-started/publish-api-proxy/>`__
 
 サポート・調査
 ~~~~
 
-- `NIM Tech Support <#id34>`__
+- `Troubleshooting <https://docs.nginx.com/nginx-management-suite/acm/troubleshooting/>`__
 
 NGINX Agent
 ----
@@ -462,7 +466,7 @@ NGINX Lab Guide
 様々なNGINXのデプロイ手順、動作確認手順をまとめています。
 ハンズオンラボをご希望の場合にはF5にご連絡ください。
 
-- `NGINX セットアップガイド・ラボガイド <https://f5j-tech-info.readthedocs.io/ja/latest/content03/content3.html>`__
+- `NGINX セットアップガイド・ラボガイド <https://f5j-tech-info.readthedocs.io/ja/latest/content11/content11.html>`__
 
 Webinar
 ----
