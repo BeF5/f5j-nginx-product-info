@@ -36,3 +36,11 @@ table {
 .linenos pre {
     background: #ffffff;
 }
+
+.wy-side-nav-search {
+    background-color: #009639; /* 任意の背景色に変更 */
+}
+
+.wy-nav-top {
+    background-color: #009639; /* 任意の背景色に変更 */
+}
